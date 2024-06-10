@@ -1,4 +1,3 @@
-# NFactorialGame
-This game was made in two days by a person who has never done C++ projects, but just solved problems
+Game made with sfml library
 
-Запустите game.exe
+run game.exe
